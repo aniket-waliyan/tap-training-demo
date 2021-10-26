@@ -8,7 +8,7 @@
     - Branch Creation
     - Pull Requests , etc
 
-# Initial Github Setup on Local machine
+# Initial git Setup on Local machine
 
 ```
 git config --global user.name "github username"
